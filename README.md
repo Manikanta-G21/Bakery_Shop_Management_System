@@ -6,7 +6,7 @@ FIRST Download
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"bpsms"
+3"Bakery_Shop_Management_System"
 
 4. Download the zip file/ download winrar
 
